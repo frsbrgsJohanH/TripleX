@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+x64/
+.idea
+.idea/.idea.TripleX/.idea/vcs.xml
+.idea/.idea.TripleX/.idea/vcs.xml
