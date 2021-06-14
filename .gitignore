@@ -31,7 +31,10 @@
 *.out
 *.app
 
-x64/
-.idea
-.idea/.idea.TripleX/.idea/vcs.xml
-.idea/.idea.TripleX/.idea/vcs.xml
+
+*.recipe
+*.lastbuildstate
+*.tlog
+*.ilk
+*.idb
+*.pdb
